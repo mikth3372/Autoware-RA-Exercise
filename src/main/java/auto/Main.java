@@ -1,4 +1,4 @@
-package org.example;
+package auto;
 
 import com.google.gson.Gson;
 import org.apache.http.Header;
